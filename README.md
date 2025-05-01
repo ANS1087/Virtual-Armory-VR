@@ -81,8 +81,9 @@ This project was built as a solo learning prototype for VR development. The main
 ## 👨‍💻 Author
 
 **ANS1087**
-**Shrey Khetan**
+
 💼 [LinkedIn Profile](https://www.linkedin.com/in/shreykhetan/)  
+
 📬 [Email](mailto:Shreykhetan@gmail.com)
 
 ---

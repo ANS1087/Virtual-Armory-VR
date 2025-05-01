@@ -26,13 +26,12 @@
 
 ## 🧭 Screenshots
 
-> Below are screenshots showcasing the training environment inside the Virtual Armory:
+
 
 ### 🖼️ Arena Overview
 
-
-
-> *Make sure to place your actual screenshots in the `images/` folder of the repo, or update the links above with the correct file paths.*
+![Arena Overview](images/arena-overview1.jpg)
+![Arena Overview](images/arena-overview2.jpg)
 
 ---
 

@@ -30,8 +30,8 @@
 
 ### 🖼️ Arena Overview
 
-![Arena Overview](images/arena-overview1.jpg)
-![Arena Overview](images/arena-overview2.jpg)
+![Arena Overview](images/arena-overview1.png)
+![Arena Overview](images/arena-overview2.png)
 
 ---
 

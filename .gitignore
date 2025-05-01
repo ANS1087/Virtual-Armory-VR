@@ -1,4 +1,4 @@
-# Unity generated folders and files
+# --- Unity project folders ---
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,9 +6,20 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+UserSettings/
 
-# Visual Studio / JetBrains IDEs
+# --- Unity Cloud Build cache ---
+/.cloud/
+/UnityCloudBuild/
+
+# --- Unity Collaborate / Plastic SCM (version control) ---
+/.collab/
+/.plastic/
+/PlasticSCM/
+
+# --- IDE and OS files ---
 .vscode/
+.idea/
 *.csproj
 *.unityproj
 *.sln
@@ -19,11 +30,13 @@
 *.pidb
 *.booproj
 *.svd
-
-# OS-specific files
+*.pdb
 .DS_Store
 Thumbs.db
 
-# Custom folders to ignore
-Recordings/
-Builds/Android/
+# --- Android & Xcode build folders ---
+/Builds/Android/
+/Builds/iOS/
+
+# --- Custom folders to ignore ---
+/Backups/

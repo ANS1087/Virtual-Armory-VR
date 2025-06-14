@@ -57,7 +57,6 @@
 ## 📘 Documentation
 
 - 📄 [Game Design Document (GDD)](./Armory%20Practice%20GDD.docx)
-have to put from in the github
 
 ---
 
